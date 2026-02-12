@@ -1,4 +1,6 @@
-![Vendor Letterhead](PD110-P1_0604T-docs/Misc/Vendor%20letterhead.png)
+<p align="center">
+  <img src="PD110-P1_0604T-docs/Misc/Vendor letterhead.png" width="600"/>
+</p>
 
 # ---Intelligent-Mobile-Travel-Guide-Flutter-App---
 IMEDIA Vendor repository
