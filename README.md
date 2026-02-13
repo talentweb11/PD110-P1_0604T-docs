@@ -6,7 +6,7 @@
 Vendor: IMedia
 Customer: TravelMate
 
-##1. Project Overview
+## 1. Project Overview
 
 This repository contains the vendor-side artefacts for the Intelligent Mobile Travel Guide System (IMTGS) project.
 It documents the requirements analysis (BCIC) conducted on the client’s Project Specification (PS), and the progression of refined requirements into the Software Requirements Specification (SRS).
@@ -21,13 +21,12 @@ Maintain traceability from PS → Analysed Requirements → SRS
 
 Support validation and handover to the design and implementation phases
 
-##2. Repository Structure
+## 2. Repository Structure
 
 <p align="left">
   <img src="Misc/File Directory.png" width="900"/>
 </p>
-
-##3. Artefacts
+## 3. Artefacts
 - Project Specification
 - Analysis Report
   - IRC
@@ -38,12 +37,10 @@ Support validation and handover to the design and implementation phases
   - Repository
   - Account Manager
   - Risk Analysis
-  - Requirements modeling
+  - Requirements modelling
   
-
-
 <p align="center">
-  © 2026 IMedia 
+  ## © 2026 IMedia 
 </p>
 
 
