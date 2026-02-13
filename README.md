@@ -3,7 +3,9 @@
 </p>
 
 # ---Intelligent-Mobile-Travel-Guide-Flutter-App---
-IMEDIA Vendor repository
+Vendor: IMedia
+Customer: TravelMate
+
 1. Project Overview
 
 This repository contains the vendor-side artefacts for the Intelligent Mobile Travel Guide System (IMTGS) project.
@@ -21,8 +23,7 @@ Support validation and handover to design and implementation phases
 
 2. Repository Structure
 
-
-<p align="center">
-  <img src="Misc/File Directory.png" width="600"/>
+<p align="left">
+  <img src="Misc/File Directory.png" width="900"/>
 </p>
 
